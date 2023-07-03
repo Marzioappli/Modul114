@@ -189,7 +189,7 @@ XOOXXOOX
 ![grafik](https://github.com/Marzioappli/Modul114/assets/90458224/4a33f8bc-4346-4c7c-abf5-8688a3ace385)
 ## Luminanzkanal: Die Umwandlung Farbbild zu Graustufenbild
 ![grafik](https://github.com/Marzioappli/Modul114/assets/90458224/e847ea57-866a-4bef-995a-ac99e8e437df)
-![grafik](https://github.com/Marzioappli/Modul114/assets/90458224/be030995-0fbd-4efb-a2d4-7079378e2461)
+
 
 ## Aufgaben zur symmetrischen Verschlüsselung
 
